@@ -9,7 +9,7 @@
 ```
 
 Step1. Check you have .json file
-![json file](/img/train.json.png | width=400)
+<img src="https://github.com/chou141253/download_kinetics700/img/train.json.png" width="360"/>
 
 #### Step2. Run Kinetics700_collect_multiprocess.py
 in this step, you need to input 2 path:
