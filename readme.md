@@ -16,6 +16,11 @@
   * save path (all class-folder will be created automatically)
 
 
+```
+Test Environment:
+Ubuntu 18.04 and Python3.6
+```
+
 - - -
 if you have any question, please send email to me (ntnuchou115423@gmail.com)
 :yum: :yum: :yum:
