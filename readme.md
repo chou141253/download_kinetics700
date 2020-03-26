@@ -3,10 +3,9 @@
 ### How to use?
 #### Step0. Requirement:
 ```
-[arbitrary case-insensitive reference text]: https://www.mozilla.org
- * [ffmpeg](https://linuxize.com/post/how-to-install-ffmpeg-on-ubuntu-18-04/)
- * [opencv-python](https://pypi.org/project/opencv-python/)
- * [youtube-dl](https://linoxide.com/linux-how-to/install-use-youtube-dl-ubuntu/)
+* [ffmpeg](https://linuxize.com/post/how-to-install-ffmpeg-on-ubuntu-18-04/)
+* [opencv-python](https://pypi.org/project/opencv-python/)
+* [youtube-dl](https://linoxide.com/linux-how-to/install-use-youtube-dl-ubuntu/)
 ```
 
 #### Step1. Check you have .json file like this:
@@ -15,8 +14,8 @@
 #### Step2. Run Kinetics700_collect_multiprocess.py
 in this step, you need to input 2 path:
 ```
- * json file path (from Step1)
- * save path (all class-folder will be created automatically)
+* json file path (from Step1)
+* save path (all class-folder will be created automatically)
 ``` 
 
 - - -
