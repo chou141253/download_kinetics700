@@ -1,6 +1,10 @@
 ## This is our script to download kinetics700 dataset(or other youtube type dataset).
 - - -
 ### How to use?
+```
+Test Environment:
+Ubuntu 18.04 and Python3.6
+```
 #### Step0. Install requirement:
 
   * [ffmpeg](https://linuxize.com/post/how-to-install-ffmpeg-on-ubuntu-18-04/)
@@ -14,12 +18,6 @@
 
   * json file path (from Step1)
   * save path (all class-folder will be created automatically)
-
-
-```
-Test Environment:
-Ubuntu 18.04 and Python3.6
-```
 
 - - -
 if you have any question, please send email to me (ntnuchou115423@gmail.com)
