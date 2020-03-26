@@ -1,7 +1,7 @@
 ## This is our script to download kinetics700 dataset(or other youtube type dataset).
 - - -
 ### How to use?
-#### Step0. Requirement:
+#### Step0. Install requirement:
 
   * [ffmpeg](https://linuxize.com/post/how-to-install-ffmpeg-on-ubuntu-18-04/)
   * [opencv-python](https://pypi.org/project/opencv-python/)
