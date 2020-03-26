@@ -1,22 +1,22 @@
 ## This is our script to download kinetics700 dataset(or other youtube type dataset).
 - - -
-How to use?
-Step0. Requirement:
-    ```
+### How to use?
+#### Step0. Requirement:
+```
     * [ffmpeg](https://linuxize.com/post/how-to-install-ffmpeg-on-ubuntu-18-04/)
     * [opencv-python](https://pypi.org/project/opencv-python/)
     * [youtube-dl](https://linoxide.com/linux-how-to/install-use-youtube-dl-ubuntu/)
-    ```
+```
 
 Step1. Check you have .json file
-![json file](/img/train.json.png)
+![json file](/img/train.json.png | width=400)
 
-Step2. Run Kinetics700_collect_multiprocess.py
+#### Step2. Run Kinetics700_collect_multiprocess.py
 in this step, you need to input 2 path:
-    ```
+```
     * json file path (from Step1)
     * save path (all class-folder will be created automatically)
-    ``` 
+``` 
 
 - - -
 if you have any question, please send email to me (ntnuchou115423@gmail.com)
