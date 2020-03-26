@@ -8,7 +8,7 @@
     * [youtube-dl](https://linoxide.com/linux-how-to/install-use-youtube-dl-ubuntu/)
 ```
 
-#### Step1. Check you have .json file
+#### Step1. Check you have .json file like this:
 <img src="https://github.com/chou141253/download_kinetics700/blob/master/img/train.json.png" width=360px/>
 
 #### Step2. Run Kinetics700_collect_multiprocess.py
